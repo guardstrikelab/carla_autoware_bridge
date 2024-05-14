@@ -1,0 +1,9 @@
+--index-url https://pypi.tuna.tsinghua.edu.cn/simple
+
+numpy
+PyYaml
+loguru
+networkx
+transforms3d
+opencv-python
+
