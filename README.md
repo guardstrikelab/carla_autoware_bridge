@@ -5,7 +5,7 @@
 <br />
 <div align="center">
 
-  <h1 align="center">Carla Universe Bridge</h1>
+  <h1 align="center">Carla Autoware Bridge</h1>
   <p align="center">
     <b>Carla & Autoware.Universe Co-simulation</b>
     <!-- <br /> -->
